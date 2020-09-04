@@ -18,5 +18,5 @@
     # 'ctrl-y ctrl-n': 'ocaml-repl:Repl Node',
     # 'ctrl-y ctrl-g': 'ocaml-repl:Repl Gdb',
     # 'ctrl-y ctrl-w': 'ocaml-repl:Repl Swift',
-    # 'ctrl-y ctrl-s': 'ocaml-repl:interpreteSelect',
+    'ctrl-y ctrl-s': 'ocaml-repl:interpreteSelect',
     'ctrl-y ctrl-f': 'ocaml-repl:interpreteFile'
